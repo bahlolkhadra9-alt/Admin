@@ -1,0 +1,2 @@
+# Admin
+Discord admin application
